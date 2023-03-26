@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  },
+  "name": "discord-activedev-badge",
+  "description": "Discord Active Developer Badge Bot.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "reuzurq#3390",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reuzurq/discord-activedev-badge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reuzurq/discord-activedev-badge/issues"
+  },
+  "homepage": "https://github.com/reuzurq/discord-activedev-badge#readme"
+}
