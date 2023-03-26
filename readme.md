@@ -13,12 +13,12 @@ Clone the project or download the source in ZIP and extract it.
 ```
 Open terminal inside `./discord-activedev-badge-master` and install all needed depencies.
 ```bash
-    npm i
+  npm i
 ```
 ### Running
 If you don't have a bot or bot token, create a new one on the [Discord Developer Portal](https://discord.com/developers/applications)
 ```bash
-    node . botToken [-d]
+  node . botToken [-d]
 ```
 If you want to kill the bot after using it, use `-d` parameter (optional).
 
